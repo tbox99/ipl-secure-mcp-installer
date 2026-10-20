@@ -1,0 +1,20 @@
+# Local credentials, diagnostics and editor files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.secret
+*runtime-key*
+*tunnel-profile*.yaml
+config.local.json
+*.log
+*.bak
+*.swp
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+dist/
